@@ -16,3 +16,5 @@ plotting.py produces the plots found in the paper.
 variance_estimation.py estimates the number of cells needed for each dataset to capture the standard deviation.
 
 Further details can be found in the accompanying paper.
+
+This work is published under Creative Commons CC-BY 4.0
