@@ -17,4 +17,4 @@ variance_estimation.py estimates the number of cells needed for each dataset to 
 
 Further details can be found in the accompanying paper.
 
-This work is published under Creative Commons CC-BY 4.0
+This work is published under Creative Commons CC BY 4.0
